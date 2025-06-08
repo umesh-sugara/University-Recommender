@@ -3,7 +3,9 @@
 This is a Streamlit application for recommending universities:  https://university-recommender.streamlit.app/
 
 ---
-
+Product Plan Document:
+ - https://docs.google.com/document/d/1uJgJz-d96-3PkXwXziEZG6Kkf4c03k3AhEZz4NsxXjo/edit?usp=sharing
+---
 ## Running the Project Locally
 
 To run this project on your own machine, follow these steps:
