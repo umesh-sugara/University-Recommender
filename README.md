@@ -1,6 +1,6 @@
 # University Recommender
 
-This is a Streamlit application for recommending universities.
+This is a Streamlit application for recommending universities:  https://university-recommender.streamlit.app/
 
 ---
 
