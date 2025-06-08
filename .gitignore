@@ -1,7 +1,6 @@
 venv/
 __pycache__/
 *.pyc
-app_artifacts.pkl
 .vscode/
 .idea/
 .DS_Store
