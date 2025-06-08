@@ -1,6 +1,7 @@
 # University Recommender
 
-This is a Streamlit application for recommending universities:  https://university-recommender.streamlit.app/
+This is the hosted application link for University recommender:  
+ - https://university-recommender.streamlit.app/
 
 ---
 Product Plan Document:
